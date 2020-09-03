@@ -1,0 +1,21 @@
+This is a simple app made by Prabas Gokarna Adhikari. 
+Email: prabasruck@gmail.com
+
+
+What does this app do:
+The app can generate the count plot graph of the friends of the people which is stored in the 'person' folder inside of 'data' folder in the main directory.
+
+To demonstrate, two example datas namely, 'ARPAN' and 'RABI' is given.
+To add your own data, follow these simple steps:
+1. Go to the friends section in the facebook of the concerned person.
+2. Just select everthing when you scroll such that all the friends of the concerned person is included within the single page by pressing Ctrl + A and copy.
+3. On data/person folder make a '.txt' file.
+4. Name the file whatever you want, paste inside the file and finally save it.(ignore the warning)
+5. Run the program and select the name by which you saved the file in the process.
+6. Done 
+!!!!!
+
+
+
+Copyright: 	Prabas Gokarna Adhikari
+		Email: prabasruck@gmail.com
